@@ -18,8 +18,8 @@ int main() {
 	}
 	for (int i = 0; i < E; i++) {
 		int src, dest, weight;
-		printf("Enter source : ");		
-scanf("%d", &src);
+		printf("Enter source : ");
+		scanf("%d", &src);
 		printf("Enter destination : ");
 		scanf("%d", &dest);
 		printf("Enter weight : ");
